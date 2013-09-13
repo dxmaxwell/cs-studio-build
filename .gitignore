@@ -1,0 +1,6 @@
+
+# Ignore these directories, they are created during the build process.
+builder/ext
+builder/buildDirectory
+builder/buildRepository
+
