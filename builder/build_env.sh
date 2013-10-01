@@ -25,7 +25,7 @@ if [ ! -f "$BUILDER/build.properties" ]; then
 fi
 
 if [ -z "$QUALIFIER" ]; then
-    QUALIFIER=`date +"%Y%m%d%H%M%S"`
+    QUALIFIER=`date +"v%Y%m%d%H%M%S"`
 fi
 
 
