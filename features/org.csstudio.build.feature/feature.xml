@@ -77,9 +77,9 @@
          id="org.csstudio.diag.controlsystemtools.feature"
          version="0.0.0"/>-->
 
-   <includes
+   <!--<includes
          id="org.csstudio.configuration.epics.feature"
-         version="0.0.0"/>
+         version="0.0.0"/>-->
 
    <includes
          id="org.csstudio.alarm.beast.ui.feature"
@@ -97,9 +97,9 @@
          id="org.csstudio.trends.databrowser2.feature"
          version="0.0.0"/>
 
-   <includes
+   <!--<includes
          id="org.csstudio.sds.feature"
-         version="0.0.0"/>
+         version="0.0.0"/>-->
 
    <includes
          id="org.csstudio.scan.ui.feature"
@@ -1665,12 +1665,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.language.script"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.utility.adlParser"
