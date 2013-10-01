@@ -113,17 +113,17 @@
          id="org.csstudio.channel.feature"
          version="0.0.0"/>
 
-   <includes
+   <!--<includes
          id="org.csstudio.archive.sdds.server.feature"
-         version="0.0.0"/>
+         version="0.0.0"/>-->
 
-   <includes
+   <!--<includes
          id="org.csstudio.tine2jms.feature"
-         version="0.0.0"/>
+         version="0.0.0"/>-->
 
-   <includes
+   <!--<includes
          id="org.csstudio.alarm.jms2ora.feature"
-         version="0.0.0"/>
+         version="0.0.0"/>-->
 
    <includes
          id="org.csstudio.logbook.viewer.feature"
@@ -806,12 +806,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.ams.application.deliverysystem"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.alarm.beast.ui.areapanel"
@@ -1063,12 +1063,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.management.contactscommands.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.alarm.service"
@@ -1106,12 +1106,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.ams.MessageMinder"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.service.unitconversion"
@@ -1120,12 +1120,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.application.department.decision"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.scan.ui"
@@ -1171,12 +1171,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.tine2jms"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.apputil.ui"
@@ -1263,12 +1263,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.ams.remotetool"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.snl.intro"
@@ -1334,12 +1334,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.sdds.server"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.sds.language.script.ui"
@@ -1386,13 +1386,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.diag.icsiocmonitor.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
-
+         unpack="false"/>-->
    <plugin
          id="org.csstudio.alarm.beast.notifier.intro"
          download-size="0"
@@ -1548,12 +1547,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.alarm.jms2ora"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.swt.widgets.test"
@@ -1585,12 +1584,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.ams.distributor"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.jdom"
@@ -1894,12 +1893,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.caSnooper"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.autocomplete.channelfinder"
@@ -1936,12 +1935,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.common.activatorUtils"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.ams.application.deliverysystem.log4j"
@@ -2065,13 +2064,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.ams.application.monitor.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.domain.desy.epics"
@@ -2391,12 +2390,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.ams.application.monitor"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.alarm.beast.configtool"
@@ -2405,12 +2404,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.alarm.syslog2jms"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.ams.delivery.email"
@@ -2626,12 +2625,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.config.savevalue.rmiserver"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.alarm.beast.ui.globaltable"
@@ -2855,12 +2854,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.management.xmpplogindialog"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.archive.common.reader"
@@ -2876,12 +2875,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.ldapupdater"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.custommonkey.xmlunit"
