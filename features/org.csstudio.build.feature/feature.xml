@@ -917,12 +917,12 @@
          version="0.0.0"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.guard"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.ehcache"
@@ -994,13 +994,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.domain.desy.softioc.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="net.coobird.thumbnailator"
@@ -1046,20 +1046,20 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.epicsDataBaseCompare"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.epicsDataBaseCompare.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.channel.opiwidgets"
@@ -1261,12 +1261,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.engine"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.ams.remotetool"
@@ -1383,13 +1383,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.domain.desy.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.diag.icsiocmonitor.ui"
@@ -1524,12 +1524,12 @@
          version="0.0.0"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.diag.jmssender"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.scan.ui.plot"
@@ -1660,13 +1660,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.alarm.treeview.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.sds.language.script"
@@ -1682,12 +1682,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.alarm.table"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.apache.commons.lang"
@@ -1847,12 +1847,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.alarm.treeview"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.domain.desy"
@@ -1875,13 +1875,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.service.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.autocomplete.logbook"
@@ -2076,12 +2076,12 @@
          fragment="true"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.domain.desy.epics"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.ams.delivery.test"
@@ -2156,12 +2156,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.ldap.service.impl"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.dct"
@@ -2170,13 +2170,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.reader.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.utility.jmssendcmd"
@@ -2365,13 +2365,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.ldap.service.impl.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.numjy"
@@ -2773,12 +2773,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.service.mysqlimpl"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="javax.annotation"
@@ -2865,12 +2865,12 @@
          version="0.0.0"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.reader"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.runtimetests"
@@ -2893,12 +2893,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.service"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.utility.quickstart"
@@ -2921,12 +2921,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.desy.config"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.sds.ui"
@@ -3041,13 +3041,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.archive.common.service.mysqlimpl.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.dct.ui"
