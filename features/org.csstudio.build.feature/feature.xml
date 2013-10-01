@@ -938,12 +938,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.service.pvvalidation.mkk"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.logbook.olog"
@@ -1332,12 +1332,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.components"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.archive.sdds.server"
@@ -1346,12 +1346,12 @@
          version="0.0.0"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.language.script.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.csdata.clipboard"
@@ -1517,12 +1517,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.samples"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.diag.jmssender"
@@ -1626,13 +1626,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.importer.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
-
+         unpack="false"/>-->
    <plugin
          id="org.csstudio.opibuilder.widgets.symbol"
          download-size="0"
@@ -1862,12 +1861,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.diag.diles"
@@ -1969,12 +1968,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.components.epics"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.scan.log"
@@ -2272,12 +2271,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.simpledal.validation.mock"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.scan.server"
@@ -2524,12 +2523,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.intro"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.persister"
@@ -2552,12 +2551,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.settings.desy"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.domain.common"
@@ -2580,12 +2579,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.components.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="gov.bnl.channelfinder.api"
@@ -2830,12 +2829,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.importer"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.trends.databrowser2.opiwidget"
@@ -2929,12 +2928,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.sds.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.archive.writer.rdb"
