@@ -910,12 +910,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.regelwerkbuilder.impl.confstore"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.archive.common.guard"
@@ -1325,12 +1325,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.common"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.sds.components"
@@ -1575,12 +1575,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.messaging"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="com.google.inject"
@@ -2192,12 +2192,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.logging"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.systemopen"
@@ -2343,12 +2343,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.configurator.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.opibuilder.rap"
@@ -2458,19 +2458,19 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.preferenceservice"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.preferenceservice.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.diag.icsiocmonitor.service"
@@ -2593,12 +2593,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.messaging.impl.jms"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.common.trendplotter.test"
@@ -2658,12 +2658,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.regelwerkbuilder"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.opibuilder.imagelib"
@@ -2694,12 +2694,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.configurationAccess.localStore"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.dummyauthorization"
@@ -2716,12 +2716,12 @@
          fragment="true"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.history"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.servicelocator"
@@ -2752,12 +2752,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.service.history.impl.confstore"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.epics.graphene"
@@ -3098,12 +3098,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.nams.documentation"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.common.trendplotter"
