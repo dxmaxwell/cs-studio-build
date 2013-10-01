@@ -882,12 +882,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.config.savevalue.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.ui.menu.pvscript"
@@ -2708,13 +2708,13 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.alarm.jms2ora.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.nams.service.history"
@@ -2872,12 +2872,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.runtimetests"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <!--<plugin
          id="org.csstudio.utility.ldapupdater"
@@ -2900,12 +2900,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.quickstart"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.display.rdbtable"
@@ -3006,12 +3006,12 @@
          version="0.0.0"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.utility.adlConverter"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.alarm.beast.ui.alarmtree"
