@@ -85,9 +85,9 @@
          id="org.csstudio.alarm.beast.ui.feature"
          version="0.0.0"/>
 
-   <includes
+   <!--<includes
          id="org.csstudio.application.weightrequest.feature"
-         version="0.0.0"/>
+         version="0.0.0"/>-->
 
    <includes
          id="org.csstudio.opibuilder.feature"
@@ -1951,12 +1951,12 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.application.weightrequest"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.display.pace"
