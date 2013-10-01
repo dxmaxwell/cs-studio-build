@@ -43,7 +43,7 @@ if [ ! -d "$BASE_LOCATION" ]; then
         wget http://archive.eclipse.org/eclipse/downloads/drops/R-3.7.2-201202080800/eclipse-3.7.2-delta-pack.zip
     fi
     if [[ ! -f org.eclipse.egit.fetchfactory_0.12.0.201108111757.jar ]]; then
-        http://download.eclipse.org/egit/pde/updates-nightly/plugins/org.eclipse.egit.fetchfactory_0.12.0.201108111757.jar
+        wget http://download.eclipse.org/egit/pde/updates-nightly/plugins/org.eclipse.egit.fetchfactory_0.12.0.201108111757.jar
     fi
     tar -xzvf eclipse-rcp-indigo-SR2-linux-gtk.tar.gz
     unzip -o eclipse-3.7.2-delta-pack.zip
