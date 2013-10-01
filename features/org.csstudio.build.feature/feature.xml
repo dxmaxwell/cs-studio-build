@@ -1368,13 +1368,13 @@
          fragment="true"
          unpack="false"/>
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.common.trendplotter.shell.fragment"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.diag.epics.pvmanager.pvtree"
@@ -2600,13 +2600,13 @@
          version="0.0.0"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.common.trendplotter.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
          fragment="true"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.diag.postanalyser"
@@ -3105,12 +3105,12 @@
          version="0.0.0"
          unpack="false"/>-->
 
-   <plugin
+   <!--<plugin
          id="org.csstudio.common.trendplotter"
          download-size="0"
          install-size="0"
          version="0.0.0"
-         unpack="false"/>
+         unpack="false"/>-->
 
    <plugin
          id="org.csstudio.scan.ui.scandata"
