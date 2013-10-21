@@ -35,7 +35,7 @@ if options.repo == None:
 
 options.format = options.format.lower()
 
-if options.format not in [ "git", "p2", "p2iu" ]:
+if options.format not in [ "git", "p2", "p2iu", "json" ]:
     sys.stderr.write( "Error: Format specified, %s, not supported.\n" % options.format )
     sys.exit( 1 )
 
@@ -142,7 +142,7 @@ def getElementInfo( elementPath ):
     return None    
 
 
-
+firstWrite = True;
 
 def writeP2IU( elmInfo ):
 
@@ -234,9 +234,34 @@ def writeGIT( elmPath, elmInfo ):
         sys.stderr.write( "Error: Unable to write element in GIT format: %s: of type: %s\n" % (elmPath, elmInfo[0]) )
 
 
+def writeJSON( elmInfo ):
+
+    if options.path == None:
+        path = elmPath
+    else:
+        path = os.path.join( option.path, elmPath )
+
+    global firstWrite
+
+    if firstWrite:
+        sys.stdout.write("\n\n{ \"")
+        firstWrite = False
+    else:
+        sys.stdout.write(",\n\n{ \"")
+    sys.stdout.write(elmInfo[0])
+    sys.stdout.write("\":{\"id\":\"")
+    sys.stdout.write(elmInfo[1])
+    sys.stdout.write("\",\"version\":\"")
+    sys.stdout.write(elmInfo[2])
+    sys.stdout.write("\"}}")
 
 
-sys.stdout.write( "!*** This file was generated on %s\n\n" % (datetime.now().strftime("%B %d, %Y %I:%M:%S %p %Z"),) )
+
+if options.format in [ "git", "p2", "p2iu" ]:
+    sys.stdout.write( "!*** This file was generated on %s\n\n" % (datetime.now().strftime("%B %d, %Y %I:%M:%S %p %Z"),) )
+elif options.format in [ "json" ]:
+    sys.stdout.write("{ \"generated\":\"%s\", \"map\":[" % (datetime.now().strftime("%B %d, %Y %I:%M:%S %p %Z"),) )
+
 
 for srcDirectory in srcDirectories:
 
@@ -256,5 +281,12 @@ for srcDirectory in srcDirectories:
 
         elif options.format in [ "p2", "p2iu" ]:
             writeP2IU( elmInfo )
-        
+
+        elif options.format in [ "json" ]:
+            writeJSON( elmInfo )
+
+
+if options.format in [ "json" ]:
+    sys.stdout.write("\n\n]}")
+
 sys.exit( 0 )
