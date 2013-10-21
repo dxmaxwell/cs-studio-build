@@ -1,4 +1,4 @@
-!*** This file was generated on October 21, 2013 01:08:25 PM 
+!*** This file was generated on October 21, 2013 01:12:06 PM 
 
 plugin@org.csstudio.security.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.security.ui
 
@@ -37,8 +37,6 @@ plugin@org.csstudio.platform.libs.jmock=GIT,tag=origin/dev-3.2.X,repo=git://gith
 plugin@org.csstudio.platform.libs.jfreechart=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jfreechart
 
 plugin@org.csstudio.simplepv=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.simplepv
-
-plugin@org.csstudio.remote=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.remote
 
 plugin@org.csstudio.logging=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.logging
 
@@ -193,14 +191,6 @@ feature@org.csstudio.eclipse.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.
 feature@org.csstudio.core.util.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.core.util.feature
 
 feature@org.csstudio.pvmanager.pva.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.pva.feature
-
-feature@org.csstudio.pvmanager.ca.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.ca.feature
-
-feature@org.csstudio.core.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.core.feature
-
-feature@org.csstudio.boy.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.boy.feature
-
-feature@org.csstudio.utilities.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.utilities.feature
 
 feature@org.csstudio.pvmanager.jdbc.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.jdbc.feature
 
@@ -380,6 +370,8 @@ plugin@org.csstudio.alarm.beast.notifier.intro=GIT,tag=origin/dev-3.2.X,repo=git
 
 plugin@org.csstudio.scan.log.derby=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.log.derby
 
+plugin@org.csstudio.logging.jms2rdb=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.logging.jms2rdb
+
 fragment@org.csstudio.archive.common.requesttype.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.requesttype.test
 
 plugin@org.csstudio.utility.nameSpaceBrowser.tine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.nameSpaceBrowser.tine
@@ -389,6 +381,8 @@ plugin@org.csstudio.alarm.jms2ora.service.oracleimpl=GIT,tag=origin/dev-3.2.X,re
 plugin@org.csstudio.archive.config.rdb=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.config.rdb
 
 plugin@org.csstudio.utility.documentService=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.documentService
+
+plugin@org.csstudio.remote=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.remote
 
 plugin@org.csstudio.alarm.beast.notifier=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.notifier
 
@@ -864,9 +858,17 @@ plugin@org.csstudio.scan.client=GIT,tag=origin/dev-3.2.X,repo=git://github.com/d
 
 feature@org.csstudio.websuite.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.websuite.feature
 
+feature@org.csstudio.pvmanager.ca.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.pvmanager.ca.feature
+
 feature@org.csstudio.diag.controlsystemtools.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.diag.controlsystemtools.feature
 
+feature@org.csstudio.core.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.core.feature
+
+feature@org.csstudio.boy.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.boy.feature
+
 feature@org.csstudio.configuration.epics.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.configuration.epics.feature
+
+feature@org.csstudio.utilities.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.utilities.feature
 
 feature@org.csstudio.alarm.beast.ui.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.alarm.beast.ui.feature
 
