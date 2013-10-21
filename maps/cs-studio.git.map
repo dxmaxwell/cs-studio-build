@@ -1,4 +1,4 @@
-!*** This file was generated on October 21, 2013 01:12:06 PM 
+!*** This file was generated on October 21, 2013 02:00:22 PM 
 
 plugin@org.csstudio.security.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.security.ui
 
@@ -135,8 +135,6 @@ plugin@org.antlr.runtime=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171
 plugin@org.csstudio.csdata.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.csdata.test
 
 plugin@org.csstudio.platform.utility.jms.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.utility.jms.ui
-
-fragment@org.csstudio.remote.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.remote.test
 
 plugin@org.csstudio.rap.ui.util=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.rap.ui.util
 
@@ -687,6 +685,8 @@ plugin@org.csstudio.scan.ui.scanmonitor=GIT,tag=origin/dev-3.2.X,repo=git://gith
 fragment@org.csstudio.ams.log4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.log4j
 
 plugin@org.csstudio.sds.intro=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.intro
+
+fragment@org.csstudio.remote.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.remote.test
 
 plugin@org.csstudio.persister=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.persister
 
