@@ -167,6 +167,7 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.java"
@@ -179,6 +180,7 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.logging"
@@ -191,6 +193,7 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.logging.ui"
@@ -245,12 +248,14 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.platform.libs.epics.macosx"
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.platform.libs.epics.ui"
@@ -263,6 +268,7 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.platform.libs.hibernate"
@@ -383,6 +389,7 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.simplepv.test"
@@ -455,6 +462,7 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.utility.pvmanager"
@@ -557,6 +565,7 @@
          download-size="0"
          install-size="0"
          version="0.0.0"
+         fragment="true"
          unpack="false"/>
    <plugin
          id="org.csstudio.utility.singlesource"
