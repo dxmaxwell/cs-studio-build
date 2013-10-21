@@ -1,3 +1,5 @@
-!*** This file was generated on October 21, 2013 1:07:14 PM 
+!*** This file was generated on October 21, 2013 1:18:56 PM 
 
 feature@org.csstudio.build.feature=GIT,tag=origin/CSS-3.2.11,repo=git://github.com/dylan171/cs-studio-build,path=features/org.csstudio.build.feature
+
+feature@org.csstudio.core.build.feature=GIT,tag=origin/CSS-3.2.11,repo=git://github.com/dylan171/cs-studio-build,path=features/org.csstudio.core.build.feature
