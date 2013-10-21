@@ -12,7 +12,7 @@ clear_build_repository
 cp -f $BUILDER/maps/*.map "$MAPS_DIRECTORY"
 
 
-build_feature "org.csstudio.build.feature"
+build_feature "org.csstudio.core.build.feature"
 if [ $? != 0 ]; then
 	echo "Error building: org.csstudio.core.build.feature"
 	exit 1
