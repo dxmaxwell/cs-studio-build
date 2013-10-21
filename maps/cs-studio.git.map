@@ -1,898 +1,898 @@
-!*** This file was generated on October 01, 2013 01:06:38 PM 
+!*** This file was generated on October 21, 2013 01:08:25 PM 
 
-plugin@org.csstudio.security.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.security.ui
+plugin@org.csstudio.security.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.security.ui
 
-plugin@org.csstudio.data=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.data
+plugin@org.csstudio.data=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.data
 
-plugin@org.csstudio.utility.pvmanager=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager
+plugin@org.csstudio.utility.pvmanager=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager
 
-plugin@org.csstudio.utility.pvmanager.ui.toolbox=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.ui.toolbox
+plugin@org.csstudio.utility.pvmanager.ui.toolbox=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.ui.toolbox
 
-plugin@org.csstudio.dal.tine=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.dal.tine
+plugin@org.csstudio.dal.tine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.dal.tine
 
-plugin@org.csstudio.utility.pvmanager.pva=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.pva
+plugin@org.csstudio.utility.pvmanager.pva=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.pva
 
-plugin@org.csstudio.platform.libs.jersey=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.jersey
+plugin@org.csstudio.platform.libs.jersey=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jersey
 
-plugin@org.csstudio.utility.pvmanager.exec=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.exec
+plugin@org.csstudio.utility.pvmanager.exec=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.exec
 
-fragment@org.csstudio.platform.libs.epics.linux=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.linux
+fragment@org.csstudio.platform.libs.epics.linux=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.linux
 
-plugin@org.csstudio.utility.singlesource.rcp=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.singlesource.rcp
+plugin@org.csstudio.utility.singlesource.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.singlesource.rcp
 
-plugin@org.csstudio.startup.helper=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.startup.helper
+plugin@org.csstudio.startup.helper=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.startup.helper
 
-plugin@org.csstudio.platform.ldapAuthorization=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.ldapAuthorization
+plugin@org.csstudio.platform.ldapAuthorization=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.ldapAuthorization
 
-plugin@org.epics.vtype=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.epics.vtype
+plugin@org.epics.vtype=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.epics.vtype
 
-plugin@org.csstudio.simplepv.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.simplepv.test
+plugin@org.csstudio.simplepv.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.simplepv.test
 
-plugin@org.csstudio.utility.pvmanager.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.ui
+plugin@org.csstudio.utility.pvmanager.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.ui
 
-fragment@org.csstudio.dal.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.dal.test
+fragment@org.csstudio.dal.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.dal.test
 
-plugin@org.csstudio.platform.libs.jmock=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.jmock
+plugin@org.csstudio.platform.libs.jmock=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jmock
 
-plugin@org.csstudio.platform.libs.jfreechart=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.jfreechart
+plugin@org.csstudio.platform.libs.jfreechart=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jfreechart
 
-plugin@org.csstudio.simplepv=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.simplepv
+plugin@org.csstudio.simplepv=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.simplepv
 
-plugin@org.csstudio.remote=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.remote
+plugin@org.csstudio.remote=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.remote
 
-plugin@org.csstudio.logging=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.logging
+plugin@org.csstudio.logging=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.logging
 
-plugin@org.csstudio.utility.pvmanager.widgets.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.widgets.test
+plugin@org.csstudio.utility.pvmanager.widgets.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.widgets.test
 
-fragment@org.csstudio.java.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.java.test
+fragment@org.csstudio.java.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.java.test
 
-plugin@org.csstudio.platform.jaasAuthentication.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.jaasAuthentication.ui
+plugin@org.csstudio.platform.jaasAuthentication.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.jaasAuthentication.ui
 
-plugin@org.csstudio.platform.libs.epics.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.ui
+plugin@org.csstudio.platform.libs.epics.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.ui
 
-plugin@org.csstudio.platform.utility.rdb=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.utility.rdb
+plugin@org.csstudio.platform.utility.rdb=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.utility.rdb
 
-plugin@org.csstudio.ui.preferences=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.ui.preferences
+plugin@org.csstudio.ui.preferences=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.ui.preferences
 
-plugin@org.csstudio.utility.singlesource=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.singlesource
+plugin@org.csstudio.utility.singlesource=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.singlesource
 
-fragment@org.csstudio.platform.libs.epics.macosx=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.macosx
+fragment@org.csstudio.platform.libs.epics.macosx=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.macosx
 
-plugin@org.csstudio.platform.jaasAuthentication=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.jaasAuthentication
+plugin@org.csstudio.platform.jaasAuthentication=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.jaasAuthentication
 
-plugin@org.csstudio.logging.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.logging.ui
+plugin@org.csstudio.logging.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.logging.ui
 
-plugin@org.csstudio.platform.libs.jms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.jms
+plugin@org.csstudio.platform.libs.jms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jms
 
-plugin@org.csstudio.dal.simulator=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.dal.simulator
+plugin@org.csstudio.dal.simulator=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.dal.simulator
 
-plugin@org.csstudio.autocomplete=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.autocomplete
+plugin@org.csstudio.autocomplete=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete
 
-plugin@org.csstudio.autocomplete.pvmanager.loc=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.loc
+plugin@org.csstudio.autocomplete.pvmanager.loc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.loc
 
-plugin@org.csstudio.platform.simpledal=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.simpledal
+plugin@org.csstudio.platform.simpledal=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.simpledal
 
-plugin@org.csstudio.utility.pv.simu=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pv.simu
+plugin@org.csstudio.utility.pv.simu=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pv.simu
 
-fragment@org.csstudio.utility.pv.simu.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pv.simu.test
+fragment@org.csstudio.utility.pv.simu.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pv.simu.test
 
-plugin@org.csstudio.platform.libs.tine=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.tine
+plugin@org.csstudio.platform.libs.tine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.tine
 
-plugin@org.csstudio.utility.pvmanager.epics=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.epics
+plugin@org.csstudio.utility.pvmanager.epics=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.epics
 
-plugin@org.csstudio.utility.pvmanager.file=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.file
+plugin@org.csstudio.utility.pvmanager.file=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.file
 
-plugin@org.csstudio.testsuite=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.testsuite
+plugin@org.csstudio.testsuite=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.testsuite
 
-plugin@org.epics.util=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.epics.util
+plugin@org.epics.util=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.epics.util
 
-plugin@org.csstudio.utility.pv=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pv
+plugin@org.csstudio.utility.pv=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pv
 
-plugin@org.epics.pvaccess=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.epics.pvaccess
+plugin@org.epics.pvaccess=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.epics.pvaccess
 
-plugin@org.csstudio.ui.util=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.ui.util
+plugin@org.csstudio.ui.util=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.ui.util
 
-plugin@org.csstudio.utility.pv.epics=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pv.epics
+plugin@org.csstudio.utility.pv.epics=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pv.epics
 
-plugin@org.csstudio.utility.pvmanager.extra=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.extra
+plugin@org.csstudio.utility.pvmanager.extra=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.extra
 
-plugin@org.csstudio.utility.pvmanager.widgets=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.widgets
+plugin@org.csstudio.utility.pvmanager.widgets=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.widgets
 
-plugin@org.csstudio.utility.singlesource.rap=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.singlesource.rap
+plugin@org.csstudio.utility.singlesource.rap=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.singlesource.rap
 
-fragment@org.csstudio.data.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.data.test
+fragment@org.csstudio.data.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.data.test
 
-plugin@org.csstudio.security=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.security
+plugin@org.csstudio.security=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.security
 
-plugin@org.csstudio.startup=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.startup
+plugin@org.csstudio.startup=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.startup
 
-plugin@org.csstudio.utility.pvmanager.loc=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.loc
+plugin@org.csstudio.utility.pvmanager.loc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.loc
 
-plugin@org.csstudio.platform.libs.jdbc=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.jdbc
+plugin@org.csstudio.platform.libs.jdbc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jdbc
 
-plugin@org.csstudio.dal.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.dal.ui
+plugin@org.csstudio.dal.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.dal.ui
 
-plugin@org.csstudio.auth=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.auth
+plugin@org.csstudio.auth=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.auth
 
-plugin@org.csstudio.java=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.java
+plugin@org.csstudio.java=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.java
 
-fragment@org.csstudio.simplepv.pvmanager.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.simplepv.pvmanager.test
+fragment@org.csstudio.simplepv.pvmanager.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.simplepv.pvmanager.test
 
-fragment@org.csstudio.logging.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.logging.test
+fragment@org.csstudio.logging.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.logging.test
 
-fragment@org.csstudio.platform.libs.epics.win32=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.win32
+fragment@org.csstudio.platform.libs.epics.win32=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.win32
 
-fragment@org.csstudio.utility.pv.epics.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pv.epics.test
+fragment@org.csstudio.utility.pv.epics.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pv.epics.test
 
-plugin@org.csstudio.openfile=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.openfile
+plugin@org.csstudio.openfile=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.openfile
 
-plugin@org.csstudio.autocomplete.ui.rcp=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.autocomplete.ui.rcp
+plugin@org.csstudio.autocomplete.ui.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.ui.rcp
 
-plugin@org.csstudio.platform.ldapAuthorization.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.ldapAuthorization.ui
+plugin@org.csstudio.platform.ldapAuthorization.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.ldapAuthorization.ui
 
-plugin@org.csstudio.dal.epics=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.dal.epics
+plugin@org.csstudio.dal.epics=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.dal.epics
 
-plugin@org.antlr.runtime=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.antlr.runtime
+plugin@org.antlr.runtime=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.antlr.runtime
 
-plugin@org.csstudio.csdata.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.csdata.test
+plugin@org.csstudio.csdata.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.csdata.test
 
-plugin@org.csstudio.platform.utility.jms.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.utility.jms.ui
+plugin@org.csstudio.platform.utility.jms.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.utility.jms.ui
 
-fragment@org.csstudio.remote.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.remote.test
+fragment@org.csstudio.remote.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.remote.test
 
-plugin@org.csstudio.rap.ui.util=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.rap.ui.util
+plugin@org.csstudio.rap.ui.util=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.rap.ui.util
 
-plugin@org.csstudio.autocomplete.pvmanager.sys=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.sys
+plugin@org.csstudio.autocomplete.pvmanager.sys=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.sys
 
-plugin@org.csstudio.autocomplete.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.autocomplete.ui
+plugin@org.csstudio.autocomplete.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.ui
 
-plugin@org.csstudio.csdata=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.csdata
+plugin@org.csstudio.csdata=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.csdata
 
-plugin@org.csstudio.ui.menu.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.ui.menu.test
+plugin@org.csstudio.ui.menu.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.ui.menu.test
 
-plugin@org.csstudio.autocomplete.pvmanager.sim=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.sim
+plugin@org.csstudio.autocomplete.pvmanager.sim=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.sim
 
-plugin@org.csstudio.workspace=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.workspace
+plugin@org.csstudio.workspace=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.workspace
 
-plugin@org.csstudio.utility.pvmanager.jdbc=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.jdbc
+plugin@org.csstudio.utility.pvmanager.jdbc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.jdbc
 
-plugin@org.csstudio.rap.core=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.rap.core
+plugin@org.csstudio.rap.core=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.rap.core
 
-plugin@org.csstudio.utility.pvmanager.sys=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.sys
+plugin@org.csstudio.utility.pvmanager.sys=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.sys
 
-plugin@org.csstudio.utility.pvmanager.sim=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.sim
+plugin@org.csstudio.utility.pvmanager.sim=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.sim
 
-plugin@org.csstudio.ui.help=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.ui.help
+plugin@org.csstudio.ui.help=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.ui.help
 
-plugin@org.csstudio.platform.libs.epics=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics
+plugin@org.csstudio.platform.libs.epics=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics
 
-plugin@org.csstudio.platform.libs.hibernate=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.hibernate
+plugin@org.csstudio.platform.libs.hibernate=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.hibernate
 
-plugin@org.csstudio.platform.libs.easymock=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.easymock
+plugin@org.csstudio.platform.libs.easymock=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.easymock
 
-plugin@org.csstudio.platform.libs.hibernate.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.libs.hibernate.ui
+plugin@org.csstudio.platform.libs.hibernate.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.hibernate.ui
 
-plugin@org.csstudio.utility.pvmanager.vtype=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.vtype
+plugin@org.csstudio.utility.pvmanager.vtype=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.vtype
 
-plugin@org.csstudio.autocomplete.pvmanager.formula=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.formula
+plugin@org.csstudio.autocomplete.pvmanager.formula=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.formula
 
-plugin@org.csstudio.dal=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.dal
+plugin@org.csstudio.dal=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.dal
 
-plugin@org.epics.pvdata=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.epics.pvdata
+plugin@org.epics.pvdata=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.epics.pvdata
 
-plugin@org.csstudio.auth.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.auth.ui
+plugin@org.csstudio.auth.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.auth.ui
 
-plugin@org.csstudio.platform.utility.jms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.platform.utility.jms
+plugin@org.csstudio.platform.utility.jms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.utility.jms
 
-plugin@org.csstudio.simplepv.pvmanager=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.simplepv.pvmanager
+plugin@org.csstudio.simplepv.pvmanager=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.simplepv.pvmanager
 
-plugin@org.csstudio.ui.menu=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/plugins/org.csstudio.ui.menu
+plugin@org.csstudio.ui.menu=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.ui.menu
 
-feature@org.csstudio.eclipse.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.eclipse.feature
+feature@org.csstudio.eclipse.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.eclipse.feature
 
-feature@org.csstudio.core.util.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.core.util.feature
+feature@org.csstudio.core.util.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.core.util.feature
 
-feature@org.csstudio.pvmanager.pva.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.pvmanager.pva.feature
+feature@org.csstudio.pvmanager.pva.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.pva.feature
 
-feature@org.csstudio.pvmanager.ca.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.pvmanager.ca.feature
+feature@org.csstudio.pvmanager.ca.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.ca.feature
 
-feature@org.csstudio.core.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.core.feature
+feature@org.csstudio.core.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.core.feature
 
-feature@org.csstudio.boy.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.boy.feature
+feature@org.csstudio.boy.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.boy.feature
 
-feature@org.csstudio.utilities.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.utilities.feature
+feature@org.csstudio.utilities.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.utilities.feature
 
-feature@org.csstudio.pvmanager.jdbc.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.pvmanager.jdbc.feature
+feature@org.csstudio.pvmanager.jdbc.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.jdbc.feature
 
-feature@org.csstudio.pvmanager.exec.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.pvmanager.exec.feature
+feature@org.csstudio.pvmanager.exec.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.exec.feature
 
-feature@org.csstudio.libs.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.libs.feature
+feature@org.csstudio.libs.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.libs.feature
 
-feature@org.csstudio.pvmanager.autocomplete.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.pvmanager.autocomplete.feature
+feature@org.csstudio.pvmanager.autocomplete.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.autocomplete.feature
 
-feature@org.csstudio.pvmanager.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=core/features/org.csstudio.pvmanager.feature
+feature@org.csstudio.pvmanager.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.pvmanager.feature
 
-plugin@org.csstudio.ams.application.deliverysystem=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.application.deliverysystem
+plugin@org.csstudio.ams.application.deliverysystem=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.application.deliverysystem
 
-plugin@org.csstudio.alarm.beast.ui.areapanel=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.areapanel
+plugin@org.csstudio.alarm.beast.ui.areapanel=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.areapanel
 
-plugin@org.csstudio.utility.documentViewer=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.documentViewer
+plugin@org.csstudio.utility.documentViewer=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.documentViewer
 
-plugin@com.google.protobuf=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/com.google.protobuf
+plugin@com.google.protobuf=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/com.google.protobuf
 
-plugin@org.csstudio.utility.pvmanager.graphene=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.pvmanager.graphene
+plugin@org.csstudio.utility.pvmanager.graphene=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.pvmanager.graphene
 
-plugin@org.csstudio.utility.pv.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.pv.ui
+plugin@org.csstudio.utility.pv.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.pv.ui
 
-plugin@org.csstudio.diag.IOCremoteManagement=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.IOCremoteManagement
+plugin@org.csstudio.diag.IOCremoteManagement=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.IOCremoteManagement
 
-plugin@org.csstudio.cagateway=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.cagateway
+plugin@org.csstudio.cagateway=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.cagateway
 
-plugin@org.csstudio.alarm.dbaccess=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.dbaccess
+plugin@org.csstudio.alarm.dbaccess=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.dbaccess
 
-fragment@org.csstudio.swt.widgets.rcp=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.widgets.rcp
+fragment@org.csstudio.swt.widgets.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.widgets.rcp
 
-plugin@org.csstudio.config.savevalue.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.config.savevalue.ui
+plugin@org.csstudio.config.savevalue.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.config.savevalue.ui
 
-plugin@org.csstudio.ui.menu.pvscript=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ui.menu.pvscript
+plugin@org.csstudio.ui.menu.pvscript=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ui.menu.pvscript
 
-plugin@org.csstudio.archive.reader.aapi=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.reader.aapi
+plugin@org.csstudio.archive.reader.aapi=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.reader.aapi
 
-plugin@org.csstudio.dct.desy=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.dct.desy
+plugin@org.csstudio.dct.desy=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.dct.desy
 
-plugin@org.csstudio.nams.service.regelwerkbuilder.impl.confstore=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.regelwerkbuilder.impl.confstore
+plugin@org.csstudio.nams.service.regelwerkbuilder.impl.confstore=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.regelwerkbuilder.impl.confstore
 
-plugin@org.csstudio.archive.common.guard=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.guard
+plugin@org.csstudio.archive.common.guard=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.guard
 
-plugin@org.ehcache=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.ehcache
+plugin@org.ehcache=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.ehcache
 
-plugin@org.csstudio.email.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.email.ui
+plugin@org.csstudio.email.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.email.ui
 
-plugin@org.csstudio.sds.service.pvvalidation.mkk=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.service.pvvalidation.mkk
+plugin@org.csstudio.sds.service.pvvalidation.mkk=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.service.pvvalidation.mkk
 
-plugin@org.csstudio.logbook.olog=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.logbook.olog
+plugin@org.csstudio.logbook.olog=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.logbook.olog
 
-plugin@org.csstudio.navigator.applaunch=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.navigator.applaunch
+plugin@org.csstudio.navigator.applaunch=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.navigator.applaunch
 
-plugin@org.csstudio.ui.menu.web=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ui.menu.web
+plugin@org.csstudio.ui.menu.web=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ui.menu.web
 
-plugin@org.csstudio.unitconversion.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.unitconversion.ui
+plugin@org.csstudio.unitconversion.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.unitconversion.ui
 
-plugin@org.csstudio.diag.epics.pvtree=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.epics.pvtree
+plugin@org.csstudio.diag.epics.pvtree=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.epics.pvtree
 
-plugin@org.csstudio.archive.writer=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.writer
+plugin@org.csstudio.archive.writer=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.writer
 
-plugin@org.csstudio.utility.channelfinder=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.channelfinder
+plugin@org.csstudio.utility.channelfinder=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.channelfinder
 
-fragment@org.csstudio.domain.desy.softioc.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.desy.softioc.test
+fragment@org.csstudio.domain.desy.softioc.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.desy.softioc.test
 
-plugin@net.coobird.thumbnailator=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/net.coobird.thumbnailator
+plugin@net.coobird.thumbnailator=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/net.coobird.thumbnailator
 
-fragment@org.csstudio.alarm.beast.ui.rap=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.rap
+fragment@org.csstudio.alarm.beast.ui.rap=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.rap
 
-plugin@org.csstudio.archive.config=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.config
+plugin@org.csstudio.archive.config=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.config
 
-plugin@org.csstudio.archive.vtype=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.vtype
+plugin@org.csstudio.archive.vtype=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.vtype
 
-fragment@org.csstudio.opibuilder.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.test
+fragment@org.csstudio.opibuilder.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.test
 
-plugin@org.csstudio.opibuilder.adl2boy=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.adl2boy
+plugin@org.csstudio.opibuilder.adl2boy=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.adl2boy
 
-plugin@org.csstudio.utility.epicsDataBaseCompare=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.epicsDataBaseCompare
+plugin@org.csstudio.utility.epicsDataBaseCompare=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.epicsDataBaseCompare
 
-fragment@org.csstudio.utility.epicsDataBaseCompare.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.epicsDataBaseCompare.test
+fragment@org.csstudio.utility.epicsDataBaseCompare.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.epicsDataBaseCompare.test
 
-plugin@org.csstudio.channel.opiwidgets=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.channel.opiwidgets
+plugin@org.csstudio.channel.opiwidgets=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.channel.opiwidgets
 
-plugin@org.csstudio.management.contactscommands.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.management.contactscommands.ui
+plugin@org.csstudio.management.contactscommands.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.management.contactscommands.ui
 
-plugin@org.csstudio.alarm.service=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.service
+plugin@org.csstudio.alarm.service=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.service
 
-plugin@org.csstudio.scan.ui.scantree=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.ui.scantree
+plugin@org.csstudio.scan.ui.scantree=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.ui.scantree
 
-fragment@org.csstudio.persister.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.persister.test
+fragment@org.csstudio.persister.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.persister.test
 
-plugin@org.csstudio.email=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.email
+plugin@org.csstudio.email=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.email
 
-plugin@org.eclipse.nebula.jface.gridviewer=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.eclipse.nebula.jface.gridviewer
+plugin@org.eclipse.nebula.jface.gridviewer=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.eclipse.nebula.jface.gridviewer
 
-plugin@org.csstudio.ams.MessageMinder=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.MessageMinder
+plugin@org.csstudio.ams.MessageMinder=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.MessageMinder
 
-plugin@org.csstudio.service.unitconversion=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.service.unitconversion
+plugin@org.csstudio.service.unitconversion=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.service.unitconversion
 
-plugin@org.csstudio.nams.application.department.decision=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.application.department.decision
+plugin@org.csstudio.nams.application.department.decision=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.application.department.decision
 
-plugin@org.csstudio.scan.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.ui
+plugin@org.csstudio.scan.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.ui
 
-plugin@org.slf4j-log4j12=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.slf4j-log4j12
+plugin@org.slf4j-log4j12=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.slf4j-log4j12
 
-plugin@org.csstudio.channel.widgets=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.channel.widgets
+plugin@org.csstudio.channel.widgets=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.channel.widgets
 
-fragment@org.csstudio.archive.sdds.server.log4j=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.sdds.server.log4j
+fragment@org.csstudio.archive.sdds.server.log4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.sdds.server.log4j
 
-plugin@org.csstudio.opibuilder.examples=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.examples
+plugin@org.csstudio.opibuilder.examples=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.examples
 
-fragment@org.csstudio.domain.common.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.common.test
+fragment@org.csstudio.domain.common.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.common.test
 
-plugin@org.csstudio.tine2jms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.tine2jms
+plugin@org.csstudio.tine2jms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.tine2jms
 
-plugin@org.csstudio.apputil.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.apputil.ui
+plugin@org.csstudio.apputil.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.apputil.ui
 
-plugin@org.csstudio.alarm.beast.annunciator=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.annunciator
+plugin@org.csstudio.alarm.beast.annunciator=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.annunciator
 
-plugin@org.csstudio.debugging.rdbshell=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.debugging.rdbshell
+plugin@org.csstudio.debugging.rdbshell=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.debugging.rdbshell
 
-plugin@org.csstudio.utility.toolbox=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.toolbox
+plugin@org.csstudio.utility.toolbox=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.toolbox
 
-plugin@org.eclipse.nebula.widgets.grid=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.eclipse.nebula.widgets.grid
+plugin@org.eclipse.nebula.widgets.grid=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.eclipse.nebula.widgets.grid
 
-plugin@org.csstudio.utility.recordProperty=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.recordProperty
+plugin@org.csstudio.utility.recordProperty=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.recordProperty
 
-plugin@org.csstudio.utility.namespace.utility=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.namespace.utility
+plugin@org.csstudio.utility.namespace.utility=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.namespace.utility
 
-plugin@org.csstudio.ams.delivery.voicemail=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.voicemail
+plugin@org.csstudio.ams.delivery.voicemail=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.voicemail
 
-plugin@org.csstudio.utility.product=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.product
+plugin@org.csstudio.utility.product=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.product
 
-plugin@org.csstudio.ui.menu.app=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ui.menu.app
+plugin@org.csstudio.ui.menu.app=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ui.menu.app
 
-fragment@org.csstudio.systemopen.win=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.systemopen.win
+fragment@org.csstudio.systemopen.win=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.systemopen.win
 
-plugin@org.csstudio.archive.common.engine=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.engine
+plugin@org.csstudio.archive.common.engine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.engine
 
-plugin@org.csstudio.ams.remotetool=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.remotetool
+plugin@org.csstudio.ams.remotetool=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.remotetool
 
-plugin@org.csstudio.snl.intro=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.snl.intro
+plugin@org.csstudio.snl.intro=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.snl.intro
 
-plugin@org.csstudio.utility.caSnooperUi=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.caSnooperUi
+plugin@org.csstudio.utility.caSnooperUi=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.caSnooperUi
 
-plugin@org.csstudio.diag.probe=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.probe
+plugin@org.csstudio.diag.probe=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.probe
 
-plugin@org.csstudio.debugging.jmsmonitor=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.debugging.jmsmonitor
+plugin@org.csstudio.debugging.jmsmonitor=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.debugging.jmsmonitor
 
-fragment@org.csstudio.opibuilder.alarm=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.alarm
+fragment@org.csstudio.opibuilder.alarm=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.alarm
 
-plugin@org.csstudio.apputil=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.apputil
+plugin@org.csstudio.apputil=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.apputil
 
-plugin@org.csstudio.ams.alarmchainmanager=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.alarmchainmanager
+plugin@org.csstudio.ams.alarmchainmanager=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.alarmchainmanager
 
-plugin@org.csstudio.nams.common=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.common
+plugin@org.csstudio.nams.common=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.common
 
-plugin@org.csstudio.sds.components=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.components
+plugin@org.csstudio.sds.components=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.components
 
-plugin@org.csstudio.archive.sdds.server=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.sdds.server
+plugin@org.csstudio.archive.sdds.server=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.sdds.server
 
-plugin@org.csstudio.sds.language.script.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.language.script.ui
+plugin@org.csstudio.sds.language.script.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.language.script.ui
 
-plugin@org.csstudio.csdata.clipboard=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.csdata.clipboard
+plugin@org.csstudio.csdata.clipboard=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.csdata.clipboard
 
-fragment@org.csstudio.alarm.jms2ora.log4j=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.log4j
+fragment@org.csstudio.alarm.jms2ora.log4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.log4j
 
-fragment@org.csstudio.common.trendplotter.shell.fragment=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.common.trendplotter.shell.fragment
+fragment@org.csstudio.common.trendplotter.shell.fragment=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.common.trendplotter.shell.fragment
 
-plugin@org.csstudio.diag.epics.pvmanager.pvtree=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.epics.pvmanager.pvtree
+plugin@org.csstudio.diag.epics.pvmanager.pvtree=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.epics.pvmanager.pvtree
 
-fragment@org.csstudio.domain.desy.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.desy.test
+fragment@org.csstudio.domain.desy.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.desy.test
 
-plugin@org.csstudio.diag.icsiocmonitor.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.icsiocmonitor.ui
+plugin@org.csstudio.diag.icsiocmonitor.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.icsiocmonitor.ui
 
-plugin@org.csstudio.alarm.beast.notifier.intro=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.notifier.intro
+plugin@org.csstudio.alarm.beast.notifier.intro=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.notifier.intro
 
-plugin@org.csstudio.scan.log.derby=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.log.derby
+plugin@org.csstudio.scan.log.derby=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.log.derby
 
-fragment@org.csstudio.archive.common.requesttype.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.requesttype.test
+fragment@org.csstudio.archive.common.requesttype.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.requesttype.test
 
-plugin@org.csstudio.utility.nameSpaceBrowser.tine=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.nameSpaceBrowser.tine
+plugin@org.csstudio.utility.nameSpaceBrowser.tine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.nameSpaceBrowser.tine
 
-plugin@org.csstudio.alarm.jms2ora.service.oracleimpl=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.service.oracleimpl
+plugin@org.csstudio.alarm.jms2ora.service.oracleimpl=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.service.oracleimpl
 
-plugin@org.csstudio.archive.config.rdb=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.config.rdb
+plugin@org.csstudio.archive.config.rdb=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.config.rdb
 
-plugin@org.csstudio.utility.documentService=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.documentService
+plugin@org.csstudio.utility.documentService=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.documentService
 
-plugin@org.csstudio.alarm.beast.notifier=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.notifier
+plugin@org.csstudio.alarm.beast.notifier=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.notifier
 
-plugin@org.csstudio.display.pvtable=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.display.pvtable
+plugin@org.csstudio.display.pvtable=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.display.pvtable
 
-plugin@org.csstudio.alarm.beast.msghist=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.msghist
+plugin@org.csstudio.alarm.beast.msghist=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.msghist
 
-plugin@org.csstudio.archive.config.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.config.test
+plugin@org.csstudio.archive.config.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.config.test
 
-plugin@org.csstudio.utility.dal.epics.infobar=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.dal.epics.infobar
+plugin@org.csstudio.utility.dal.epics.infobar=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.dal.epics.infobar
 
-plugin@org.csstudio.diag.rmtcontrol=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.rmtcontrol
+plugin@org.csstudio.diag.rmtcontrol=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.rmtcontrol
 
-plugin@org.csstudio.websuite=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.websuite
+plugin@org.csstudio.websuite=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.websuite
 
-plugin@org.csstudio.archive.reader.channelarchiver=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.reader.channelarchiver
+plugin@org.csstudio.archive.reader.channelarchiver=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.reader.channelarchiver
 
-plugin@org.csstudio.utility.httpd=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.httpd
+plugin@org.csstudio.utility.httpd=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.httpd
 
-plugin@org.csstudio.email.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.email.test
+plugin@org.csstudio.email.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.email.test
 
-plugin@org.csstudio.sds.samples=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.samples
+plugin@org.csstudio.sds.samples=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.samples
 
-plugin@org.csstudio.diag.jmssender=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.jmssender
+plugin@org.csstudio.diag.jmssender=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.jmssender
 
-plugin@org.csstudio.scan.ui.plot=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.ui.plot
+plugin@org.csstudio.scan.ui.plot=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.ui.plot
 
-plugin@org.csstudio.opibuilder.widgets.extra=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.extra
+plugin@org.csstudio.opibuilder.widgets.extra=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.extra
 
-plugin@org.csstudio.utility.tine.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.tine.ui
+plugin@org.csstudio.utility.tine.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.tine.ui
 
-plugin@org.csstudio.alarm.jms2ora=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora
+plugin@org.csstudio.alarm.jms2ora=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora
 
-fragment@org.csstudio.swt.widgets.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.widgets.test
+fragment@org.csstudio.swt.widgets.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.widgets.test
 
-fragment@org.csstudio.trends.databrowser2.rap=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2.rap
+fragment@org.csstudio.trends.databrowser2.rap=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2.rap
 
-plugin@org.csstudio.nams.service.messaging=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.messaging
+plugin@org.csstudio.nams.service.messaging=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.messaging
 
-plugin@com.google.inject=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/com.google.inject
+plugin@com.google.inject=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/com.google.inject
 
-plugin@org.csstudio.ams.distributor=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.distributor
+plugin@org.csstudio.ams.distributor=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.distributor
 
-plugin@org.jdom=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.jdom
+plugin@org.jdom=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.jdom
 
-fragment@org.csstudio.utility.treemodel.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.treemodel.test
+fragment@org.csstudio.utility.treemodel.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.treemodel.test
 
-plugin@org.python=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.python
+plugin@org.python=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.python
 
-fragment@org.csstudio.swt.xygraph.rap=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph.rap
+fragment@org.csstudio.swt.xygraph.rap=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph.rap
 
-plugin@org.csstudio.sds.importer.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.importer.ui
+plugin@org.csstudio.sds.importer.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.importer.ui
 
-plugin@org.csstudio.opibuilder.widgets.symbol=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.symbol
+plugin@org.csstudio.opibuilder.widgets.symbol=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.symbol
 
-plugin@org.csstudio.alarm.beast.server=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.server
+plugin@org.csstudio.alarm.beast.server=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.server
 
-plugin@org.csstudio.alarm.intro=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.intro
+plugin@org.csstudio.alarm.intro=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.intro
 
-plugin@org.csstudio.diag.pvmanager.probe=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.pvmanager.probe
+plugin@org.csstudio.diag.pvmanager.probe=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.pvmanager.probe
 
-fragment@org.csstudio.alarm.treeview.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.treeview.test
+fragment@org.csstudio.alarm.treeview.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.treeview.test
 
-plugin@org.csstudio.sds.language.script=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.language.script
+plugin@org.csstudio.sds.language.script=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.language.script
 
-plugin@org.csstudio.utility.adlParser=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.adlParser
+plugin@org.csstudio.utility.adlParser=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.adlParser
 
-plugin@org.csstudio.alarm.table=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.table
+plugin@org.csstudio.alarm.table=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.table
 
-plugin@org.apache.commons.lang=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.apache.commons.lang
+plugin@org.apache.commons.lang=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.apache.commons.lang
 
-plugin@org.csstudio.utility.channelfinder.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.channelfinder.ui
+plugin@org.csstudio.utility.channelfinder.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.channelfinder.ui
 
-plugin@org.csstudio.logbook.olog.properties=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.logbook.olog.properties
+plugin@org.csstudio.logbook.olog.properties=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.logbook.olog.properties
 
-plugin@org.apache.jackrabbit=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.apache.jackrabbit
+plugin@org.apache.jackrabbit=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.apache.jackrabbit
 
-plugin@org.slf4j=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.slf4j
+plugin@org.slf4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.slf4j
 
-fragment@org.csstudio.utility.ldap.service.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service.test
+fragment@org.csstudio.utility.ldap.service.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service.test
 
-plugin@org.csstudio.utility.channel.adapters=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.channel.adapters
+plugin@org.csstudio.utility.channel.adapters=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.channel.adapters
 
-plugin@org.csstudio.archive.writer.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.writer.test
+plugin@org.csstudio.archive.writer.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.writer.test
 
-plugin@org.csstudio.trends.databrowser2=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2
+plugin@org.csstudio.trends.databrowser2=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2
 
-plugin@org.apache.commons.collections=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.apache.commons.collections
+plugin@org.apache.commons.collections=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.apache.commons.collections
 
-plugin@javax.mail=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/javax.mail
+plugin@javax.mail=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/javax.mail
 
-plugin@org.csstudio.utility.treemodel=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.treemodel
+plugin@org.csstudio.utility.treemodel=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.treemodel
 
-plugin@org.csstudio.utility.nameSpaceSearch=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.nameSpaceSearch
+plugin@org.csstudio.utility.nameSpaceSearch=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.nameSpaceSearch
 
-plugin@gov.bnl.unitconversion=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/gov.bnl.unitconversion
+plugin@gov.bnl.unitconversion=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/gov.bnl.unitconversion
 
-plugin@org.csstudio.opibuilder=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder
+plugin@org.csstudio.opibuilder=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder
 
-fragment@org.csstudio.alarm.service.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.service.test
+fragment@org.csstudio.alarm.service.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.service.test
 
-plugin@org.csstudio.ams.delivery=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.delivery
+plugin@org.csstudio.ams.delivery=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.delivery
 
-plugin@org.csstudio.dct.intro=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.dct.intro
+plugin@org.csstudio.dct.intro=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.dct.intro
 
-fragment@org.csstudio.trends.databrowser2.rcp=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2.rcp
+fragment@org.csstudio.trends.databrowser2.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2.rcp
 
-plugin@org.csstudio.utility.ldap.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.ui
+plugin@org.csstudio.utility.ldap.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.ui
 
-fragment@org.csstudio.apputil.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.apputil.test
+fragment@org.csstudio.apputil.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.apputil.test
 
-plugin@org.csstudio.utility.jms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.jms
+plugin@org.csstudio.utility.jms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.jms
 
-plugin@org.csstudio.alarm.treeview=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.treeview
+plugin@org.csstudio.alarm.treeview=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.treeview
 
-plugin@org.csstudio.domain.desy=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.desy
+plugin@org.csstudio.domain.desy=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.desy
 
-plugin@org.csstudio.sds=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds
+plugin@org.csstudio.sds=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds
 
-plugin@org.csstudio.diag.diles=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.diles
+plugin@org.csstudio.diag.diles=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.diles
 
-fragment@org.csstudio.archive.common.service.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.service.test
+fragment@org.csstudio.archive.common.service.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.service.test
 
-plugin@org.csstudio.autocomplete.logbook=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.autocomplete.logbook
+plugin@org.csstudio.autocomplete.logbook=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.autocomplete.logbook
 
-plugin@org.csstudio.opibuilder.tools=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.tools
+plugin@org.csstudio.opibuilder.tools=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.tools
 
-plugin@org.csstudio.utility.caSnooper=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.caSnooper
+plugin@org.csstudio.utility.caSnooper=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.caSnooper
 
-plugin@org.csstudio.autocomplete.channelfinder=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.autocomplete.channelfinder
+plugin@org.csstudio.autocomplete.channelfinder=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.autocomplete.channelfinder
 
-plugin@org.csstudio.diag.snlDebugger=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.snlDebugger
+plugin@org.csstudio.diag.snlDebugger=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.snlDebugger
 
-plugin@org.csstudio.utility.olog=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.olog
+plugin@org.csstudio.utility.olog=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.olog
 
-plugin@org.csstudio.utility.ldap.treeconfiguration=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.treeconfiguration
+plugin@org.csstudio.utility.ldap.treeconfiguration=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.treeconfiguration
 
-plugin@org.csstudio.alarm.beast=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast
+plugin@org.csstudio.alarm.beast=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast
 
-plugin@org.csstudio.nams.common.activatorUtils=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.common.activatorUtils
+plugin@org.csstudio.nams.common.activatorUtils=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.common.activatorUtils
 
-fragment@org.csstudio.ams.application.deliverysystem.log4j=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.application.deliverysystem.log4j
+fragment@org.csstudio.ams.application.deliverysystem.log4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.application.deliverysystem.log4j
 
-plugin@org.csstudio.application.weightrequest=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.application.weightrequest
+plugin@org.csstudio.application.weightrequest=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.application.weightrequest
 
-plugin@org.csstudio.display.pace=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.display.pace
+plugin@org.csstudio.display.pace=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.display.pace
 
-plugin@org.csstudio.sds.components.epics=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.components.epics
+plugin@org.csstudio.sds.components.epics=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.components.epics
 
-plugin@org.csstudio.scan.log=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.log
+plugin@org.csstudio.scan.log=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.log
 
-plugin@org.csstudio.archive.rdb=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.rdb
+plugin@org.csstudio.archive.rdb=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.rdb
 
-plugin@org.csstudio.swt.widgets=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.widgets
+plugin@org.csstudio.swt.widgets=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.widgets
 
-fragment@org.csstudio.opibuilder.widgets.rap=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.rap
+fragment@org.csstudio.opibuilder.widgets.rap=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.rap
 
-plugin@org.csstudio.utility.channel=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.channel
+plugin@org.csstudio.utility.channel=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.channel
 
-fragment@org.csstudio.swt.xygraph.rcp=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph.rcp
+fragment@org.csstudio.swt.xygraph.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph.rcp
 
-plugin@org.csstudio.utility.tine=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.tine
+plugin@org.csstudio.utility.tine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.tine
 
-plugin@org.csstudio.swt.xygraph=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph
+plugin@org.csstudio.swt.xygraph=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph
 
-plugin@org.csstudio.utility.clock=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.clock
+plugin@org.csstudio.utility.clock=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.clock
 
-plugin@commons-beanutils.v1.8.0=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/commons-beanutils.v1.8.0
+plugin@commons-beanutils.v1.8.0=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/commons-beanutils.v1.8.0
 
-plugin@org.csstudio.ams=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams
+plugin@org.csstudio.ams=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams
 
-plugin@org.csstudio.opibuilder.widgets=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets
+plugin@org.csstudio.opibuilder.widgets=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets
 
-plugin@com.google.inject.guice.v3=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/com.google.inject.guice.v3
+plugin@com.google.inject.guice.v3=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/com.google.inject.guice.v3
 
-fragment@org.csstudio.ams.application.monitor.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.application.monitor.test
+fragment@org.csstudio.ams.application.monitor.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.application.monitor.test
 
-plugin@org.csstudio.domain.desy.epics=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.desy.epics
+plugin@org.csstudio.domain.desy.epics=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.desy.epics
 
-fragment@org.csstudio.ams.delivery.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.test
+fragment@org.csstudio.ams.delivery.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.test
 
-plugin@org.csstudio.utility.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.test
+plugin@org.csstudio.utility.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.test
 
-plugin@org.csstudio.utility.displayBrowser.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.displaybrowser
+plugin@org.csstudio.utility.displayBrowser.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.displaybrowser
 
-plugin@org.csstudio.archive.reader=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.reader
+plugin@org.csstudio.archive.reader=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.reader
 
-plugin@org.csstudio.config.kryoNameBrowser=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.config.kryoNameBrowser
+plugin@org.csstudio.config.kryoNameBrowser=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.config.kryoNameBrowser
 
-plugin@org.csstudio.graphene=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.graphene
+plugin@org.csstudio.graphene=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.graphene
 
-plugin@org.csstudio.archive.engine=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.engine
+plugin@org.csstudio.archive.engine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.engine
 
-fragment@org.csstudio.utility.product.default=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.product.default
+fragment@org.csstudio.utility.product.default=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.product.default
 
-fragment@org.csstudio.swt.xygraph.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph.test
+fragment@org.csstudio.swt.xygraph.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.xygraph.test
 
-plugin@org.csstudio.examples=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.examples
+plugin@org.csstudio.examples=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.examples
 
-plugin@org.csstudio.utility.ldap.service.impl=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service.impl
+plugin@org.csstudio.utility.ldap.service.impl=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service.impl
 
-plugin@org.csstudio.dct=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.dct
+plugin@org.csstudio.dct=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.dct
 
-fragment@org.csstudio.archive.common.reader.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.reader.test
+fragment@org.csstudio.archive.common.reader.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.reader.test
 
-plugin@org.csstudio.utility.jmssendcmd=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.jmssendcmd
+plugin@org.csstudio.utility.jmssendcmd=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.jmssendcmd
 
-plugin@org.mockito=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.mockito
+plugin@org.mockito=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.mockito
 
-plugin@org.csstudio.nams.service.logging=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.logging
+plugin@org.csstudio.nams.service.logging=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.logging
 
-plugin@org.csstudio.systemopen=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.systemopen
+plugin@org.csstudio.systemopen=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.systemopen
 
-plugin@org.csstudio.logbook.ui.extra=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.logbook.ui.extra
+plugin@org.csstudio.logbook.ui.extra=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.logbook.ui.extra
 
-plugin@edu.msu.nscl.olog.api=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/edu.msu.nscl.olog.api
+plugin@edu.msu.nscl.olog.api=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/edu.msu.nscl.olog.api
 
-plugin@org.csstudio.config.ioconfig.model=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.config.ioconfig.model
+plugin@org.csstudio.config.ioconfig.model=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.config.ioconfig.model
 
-plugin@org.csstudio.ams.delivery.sms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.sms
+plugin@org.csstudio.ams.delivery.sms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.sms
 
-plugin@org.hamcrest=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.hamcrest
+plugin@org.hamcrest=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.hamcrest
 
-fragment@org.csstudio.archive.sdds.server.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.sdds.server.test
+fragment@org.csstudio.archive.sdds.server.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.sdds.server.test
 
-plugin@org.apache.log4j=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.apache.log4j
+plugin@org.apache.log4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.apache.log4j
 
-fragment@org.csstudio.servicelocator.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.servicelocator.test
+fragment@org.csstudio.servicelocator.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.servicelocator.test
 
-plugin@org.csstudio.channel.views=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.channel.views
+plugin@org.csstudio.channel.views=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.channel.views
 
-plugin@org.csstudio.sds.simpledal.validation.mock=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.simpledal.validation.mock
+plugin@org.csstudio.sds.simpledal.validation.mock=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.simpledal.validation.mock
 
-plugin@org.csstudio.scan.server=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.server
+plugin@org.csstudio.scan.server=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.server
 
-plugin@org.csstudio.service.jdbcsample=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.service.jdbcsample
+plugin@org.csstudio.service.jdbcsample=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.service.jdbcsample
 
-feature@org.csstudio.cagateway.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.cagateway.feature
+feature@org.csstudio.cagateway.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.cagateway.feature
 
-plugin@com.google.common=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/com.google.common
+plugin@com.google.common=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/com.google.common
 
-plugin@org.csstudio.domain.desy.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.desy.ui
+plugin@org.csstudio.domain.desy.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.desy.ui
 
-plugin@org.csstudio.ams.delivery.jms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.jms
+plugin@org.csstudio.ams.delivery.jms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.jms
 
-plugin@net.miginfocom.layout=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/net.miginfocom.layout
+plugin@net.miginfocom.layout=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/net.miginfocom.layout
 
-fragment@org.csstudio.utility.ldapupdater.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldapupdater.test
+fragment@org.csstudio.utility.ldapupdater.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldapupdater.test
 
-plugin@org.csstudio.opibuilder.converter=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.converter
+plugin@org.csstudio.opibuilder.converter=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.converter
 
-fragment@org.csstudio.opibuilder.widgets.rcp=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.rcp
+fragment@org.csstudio.opibuilder.widgets.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.widgets.rcp
 
-plugin@org.csstudio.nams.configurator.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.configurator.ui
+plugin@org.csstudio.nams.configurator.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.configurator.ui
 
-fragment@org.csstudio.opibuilder.rap=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.rap
+fragment@org.csstudio.opibuilder.rap=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.rap
 
-plugin@org.csstudio.archive.common.requesttype=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.requesttype
+plugin@org.csstudio.archive.common.requesttype=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.requesttype
 
-fragment@org.csstudio.utility.ldap.service.impl.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service.impl.test
+fragment@org.csstudio.utility.ldap.service.impl.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service.impl.test
 
-plugin@org.csstudio.numjy=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.numjy
+plugin@org.csstudio.numjy=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.numjy
 
-plugin@org.csstudio.ndarray=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ndarray
+plugin@org.csstudio.ndarray=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ndarray
 
-plugin@org.csstudio.utility.screenshot=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.screenshot
+plugin@org.csstudio.utility.screenshot=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.screenshot
 
-plugin@org.csstudio.ams.application.monitor=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.application.monitor
+plugin@org.csstudio.ams.application.monitor=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.application.monitor
 
-plugin@org.csstudio.alarm.beast.configtool=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.configtool
+plugin@org.csstudio.alarm.beast.configtool=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.configtool
 
-plugin@org.csstudio.alarm.syslog2jms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.syslog2jms
+plugin@org.csstudio.alarm.syslog2jms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.syslog2jms
 
-plugin@org.csstudio.ams.delivery.email=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.email
+plugin@org.csstudio.ams.delivery.email=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.delivery.email
 
-plugin@org.csstudio.utility.IOC-Socket-Communication=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.IOC-Socket-Communication
+plugin@org.csstudio.utility.IOC-Socket-Communication=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.IOC-Socket-Communication
 
-plugin@org.joda.time=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.joda.time
+plugin@org.joda.time=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.joda.time
 
-plugin@org.csstudio.config.ioconfig.view=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.config.ioconfig.view
+plugin@org.csstudio.config.ioconfig.view=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.config.ioconfig.view
 
-fragment@org.csstudio.domain.desy.epics.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.desy.epics.test
+fragment@org.csstudio.domain.desy.epics.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.desy.epics.test
 
-plugin@org.apache.batik=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.apache.batik
+plugin@org.apache.batik=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.apache.batik
 
-plugin@org.csstudio.nams.service.preferenceservice=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.preferenceservice
+plugin@org.csstudio.nams.service.preferenceservice=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.preferenceservice
 
-plugin@org.csstudio.nams.service.preferenceservice.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.preferenceservice.ui
+plugin@org.csstudio.nams.service.preferenceservice.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.preferenceservice.ui
 
-plugin@org.csstudio.diag.icsiocmonitor.service=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.icsiocmonitor.service
+plugin@org.csstudio.diag.icsiocmonitor.service=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.icsiocmonitor.service
 
-plugin@org.csstudio.utility.olog.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.olog.ui
+plugin@org.csstudio.utility.olog.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.olog.ui
 
-fragment@org.csstudio.systemopen.linux=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.systemopen.linux
+fragment@org.csstudio.systemopen.linux=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.systemopen.linux
 
-plugin@org.csstudio.archive.reader.rdb=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.reader.rdb
+plugin@org.csstudio.archive.reader.rdb=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.reader.rdb
 
-plugin@org.csstudio.utility.sysmon=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.sysmon
+plugin@org.csstudio.utility.sysmon=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.sysmon
 
-plugin@org.csstudio.scan.ui.scanmonitor=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.ui.scanmonitor
+plugin@org.csstudio.scan.ui.scanmonitor=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.ui.scanmonitor
 
-fragment@org.csstudio.ams.log4j=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.log4j
+fragment@org.csstudio.ams.log4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.log4j
 
-plugin@org.csstudio.sds.intro=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.intro
+plugin@org.csstudio.sds.intro=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.intro
 
-plugin@org.csstudio.persister=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.persister
+plugin@org.csstudio.persister=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.persister
 
-plugin@org.hibernate.validator.v4.3.Final=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.hibernate.validator.v4.3.Final
+plugin@org.hibernate.validator.v4.3.Final=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.hibernate.validator.v4.3.Final
 
-plugin@org.csstudio.alarm.beast.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui
+plugin@org.csstudio.alarm.beast.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui
 
-plugin@org.csstudio.sds.settings.desy=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.settings.desy
+plugin@org.csstudio.sds.settings.desy=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.settings.desy
 
-plugin@org.csstudio.domain.common=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.common
+plugin@org.csstudio.domain.common=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.common
 
-plugin@org.csstudio.utility.screenshot.desy=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.screenshot.desy
+plugin@org.csstudio.utility.screenshot.desy=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.screenshot.desy
 
-plugin@org.csstudio.logbook=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.logbook
+plugin@org.csstudio.logbook=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.logbook
 
-plugin@org.csstudio.sds.components.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.components.ui
+plugin@org.csstudio.sds.components.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.components.ui
 
-plugin@gov.bnl.channelfinder.api=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/gov.bnl.channelfinder.api
+plugin@gov.bnl.channelfinder.api=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/gov.bnl.channelfinder.api
 
-plugin@org.csstudio.nams.service.messaging.impl.jms=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.messaging.impl.jms
+plugin@org.csstudio.nams.service.messaging.impl.jms=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.messaging.impl.jms
 
-fragment@org.csstudio.common.trendplotter.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.common.trendplotter.test
+fragment@org.csstudio.common.trendplotter.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.common.trendplotter.test
 
-plugin@org.csstudio.diag.postanalyser=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.postanalyser
+plugin@org.csstudio.diag.postanalyser=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.postanalyser
 
-plugin@org.csstudio.diag.pvfields=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.diag.pvfields
+plugin@org.csstudio.diag.pvfields=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.diag.pvfields
 
-plugin@org.slf4j.bridge=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.slf4j.bridge
+plugin@org.slf4j.bridge=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.slf4j.bridge
 
-plugin@org.csstudio.config.savevalue.rmiserver=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.config.savevalue.rmiserver
+plugin@org.csstudio.config.savevalue.rmiserver=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.config.savevalue.rmiserver
 
-plugin@org.csstudio.alarm.beast.ui.globaltable=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.globaltable
+plugin@org.csstudio.alarm.beast.ui.globaltable=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.globaltable
 
-fragment@org.csstudio.archive.reader.rdb.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.reader.rdb.test
+fragment@org.csstudio.archive.reader.rdb.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.reader.rdb.test
 
-plugin@org.csstudio.ams.monitor=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.monitor
+plugin@org.csstudio.ams.monitor=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.monitor
 
-plugin@org.csstudio.nams.service.regelwerkbuilder=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.regelwerkbuilder
+plugin@org.csstudio.nams.service.regelwerkbuilder=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.regelwerkbuilder
 
-plugin@org.csstudio.opibuilder.imagelib=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.imagelib
+plugin@org.csstudio.opibuilder.imagelib=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.imagelib
 
-plugin@org.csstudio.alarm.jms2ora.service=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.service
+plugin@org.csstudio.alarm.jms2ora.service=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.service
 
-fragment@org.csstudio.opibuilder.rcp=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.rcp
+fragment@org.csstudio.opibuilder.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.rcp
 
-plugin@org.csstudio.archive.reader.archiverecord=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.reader.archiverecord
+plugin@org.csstudio.archive.reader.archiverecord=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.reader.archiverecord
 
-plugin@org.csstudio.nams.service.configurationAccess.localStore=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.configurationAccess.localStore
+plugin@org.csstudio.nams.service.configurationAccess.localStore=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.configurationAccess.localStore
 
-plugin@org.csstudio.dummyauthorization=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.dummyauthorization
+plugin@org.csstudio.dummyauthorization=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.dummyauthorization
 
-fragment@org.csstudio.alarm.jms2ora.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.test
+fragment@org.csstudio.alarm.jms2ora.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.test
 
-plugin@org.csstudio.nams.service.history=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.history
+plugin@org.csstudio.nams.service.history=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.history
 
-plugin@org.csstudio.servicelocator=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.servicelocator
+plugin@org.csstudio.servicelocator=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.servicelocator
 
-plugin@org.csstudio.graphene.opiwidgets=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.graphene.opiwidgets
+plugin@org.csstudio.graphene.opiwidgets=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.graphene.opiwidgets
 
-fragment@org.csstudio.simplepv.utilitypv.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.simplepv.utilitypv.test
+fragment@org.csstudio.simplepv.utilitypv.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.simplepv.utilitypv.test
 
-plugin@org.csstudio.domain.desy.softioc=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.domain.desy.softioc
+plugin@org.csstudio.domain.desy.softioc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.domain.desy.softioc
 
-plugin@org.csstudio.nams.service.history.impl.confstore=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.service.history.impl.confstore
+plugin@org.csstudio.nams.service.history.impl.confstore=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.service.history.impl.confstore
 
-plugin@org.epics.graphene=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.epics.graphene
+plugin@org.epics.graphene=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.epics.graphene
 
-plugin@org.csstudio.channel.intro=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.channel.intro
+plugin@org.csstudio.channel.intro=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.channel.intro
 
-plugin@org.csstudio.archive.common.service.mysqlimpl=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.service.mysqlimpl
+plugin@org.csstudio.archive.common.service.mysqlimpl=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.service.mysqlimpl
 
-plugin@javax.annotation=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/javax.annotation
+plugin@javax.annotation=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/javax.annotation
 
-plugin@org.csstudio.swt.chart=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.swt.chart
+plugin@org.csstudio.swt.chart=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.swt.chart
 
-plugin@org.apache.tools.ant.junit=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.apache.tools.ant.junit
+plugin@org.apache.tools.ant.junit=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.apache.tools.ant.junit
 
-plugin@org.csstudio.dct.treemodelexporter=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.dct.treemodelexporter
+plugin@org.csstudio.dct.treemodelexporter=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.dct.treemodelexporter
 
-plugin@org.csstudio.utility.ldap.service=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service
+plugin@org.csstudio.utility.ldap.service=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.service
 
-plugin@org.csstudio.utility.nameSpaceBrowser=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.nameSpaceBrowser
+plugin@org.csstudio.utility.nameSpaceBrowser=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.nameSpaceBrowser
 
-plugin@org.csstudio.scan=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan
+plugin@org.csstudio.scan=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan
 
-plugin@org.csstudio.sds.importer=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.importer
+plugin@org.csstudio.sds.importer=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.importer
 
-plugin@org.csstudio.trends.databrowser2.opiwidget=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2.opiwidget
+plugin@org.csstudio.trends.databrowser2.opiwidget=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.trends.databrowser2.opiwidget
 
-plugin@org.csstudio.alarm.beast.ui.alarmtable=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.alarmtable
+plugin@org.csstudio.alarm.beast.ui.alarmtable=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.alarmtable
 
-fragment@org.csstudio.systemopen.mac=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.systemopen.mac
+fragment@org.csstudio.systemopen.mac=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.systemopen.mac
 
-plugin@org.csstudio.management.xmpplogindialog=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.management.xmpplogindialog
+plugin@org.csstudio.management.xmpplogindialog=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.management.xmpplogindialog
 
-plugin@org.csstudio.archive.common.reader=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.reader
+plugin@org.csstudio.archive.common.reader=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.reader
 
-plugin@org.csstudio.runtimetests=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.runtimetests
+plugin@org.csstudio.runtimetests=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.runtimetests
 
-plugin@org.csstudio.utility.ldapupdater=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldapupdater
+plugin@org.csstudio.utility.ldapupdater=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldapupdater
 
-plugin@org.custommonkey.xmlunit=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.custommonkey.xmlunit
+plugin@org.custommonkey.xmlunit=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.custommonkey.xmlunit
 
-plugin@org.csstudio.archive.common.service=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.service
+plugin@org.csstudio.archive.common.service=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.service
 
-plugin@org.csstudio.utility.quickstart=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.quickstart
+plugin@org.csstudio.utility.quickstart=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.quickstart
 
-plugin@org.csstudio.display.rdbtable=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.display.rdbtable
+plugin@org.csstudio.display.rdbtable=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.display.rdbtable
 
-plugin@org.csstudio.alarm.jms2ora.service.persistence=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.service.persistence
+plugin@org.csstudio.alarm.jms2ora.service.persistence=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.jms2ora.service.persistence
 
-plugin@org.csstudio.desy.config=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.desy.config
+plugin@org.csstudio.desy.config=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.desy.config
 
-plugin@org.csstudio.sds.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.sds.ui
+plugin@org.csstudio.sds.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.sds.ui
 
-plugin@org.csstudio.archive.writer.rdb=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.writer.rdb
+plugin@org.csstudio.archive.writer.rdb=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.writer.rdb
 
-plugin@org.hibernate.v4.1.3.Final=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.hibernate.v4.1.3.Final
+plugin@org.hibernate.v4.1.3.Final=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.hibernate.v4.1.3.Final
 
-plugin@org.csstudio.desy.logging.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.desy.logging.ui
+plugin@org.csstudio.desy.logging.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.desy.logging.ui
 
-plugin@org.csstudio.logbook.viewer=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.logbook.viewer
+plugin@org.csstudio.logbook.viewer=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.logbook.viewer
 
-plugin@org.csstudio.utility.speech=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.speech
+plugin@org.csstudio.utility.speech=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.speech
 
-plugin@org.csstudio.config.authorizeid=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.config.authorizeid
+plugin@org.csstudio.config.authorizeid=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.config.authorizeid
 
-fragment@org.csstudio.archive.common.engine.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.engine.test
+fragment@org.csstudio.archive.common.engine.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.engine.test
 
-plugin@org.csstudio.simplepv.utilitypv=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.simplepv.utilitypv
+plugin@org.csstudio.simplepv.utilitypv=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.simplepv.utilitypv
 
-plugin@org.csstudio.ams.systemmonitor=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.ams.systemmonitor
+plugin@org.csstudio.ams.systemmonitor=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.ams.systemmonitor
 
-plugin@org.csstudio.utility.eliza=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.eliza
+plugin@org.csstudio.utility.eliza=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.eliza
 
-plugin@org.csstudio.utility.adlConverter=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.adlConverter
+plugin@org.csstudio.utility.adlConverter=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.adlConverter
 
-plugin@org.csstudio.alarm.beast.ui.alarmtree=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.alarmtree
+plugin@org.csstudio.alarm.beast.ui.alarmtree=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.alarm.beast.ui.alarmtree
 
-plugin@com.mysql.jdbc=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/com.mysql.jdbc
+plugin@com.mysql.jdbc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/com.mysql.jdbc
 
-plugin@org.junit-dep=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.junit-dep
+plugin@org.junit-dep=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.junit-dep
 
-plugin@org.csstudio.service.math=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.service.math
+plugin@org.csstudio.service.math=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.service.math
 
-fragment@org.csstudio.archive.common.service.mysqlimpl.test=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.archive.common.service.mysqlimpl.test
+fragment@org.csstudio.archive.common.service.mysqlimpl.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.archive.common.service.mysqlimpl.test
 
-plugin@org.csstudio.dct.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.dct.ui
+plugin@org.csstudio.dct.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.dct.ui
 
-plugin@org.csstudio.opibuilder.editor=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.opibuilder.editor
+plugin@org.csstudio.opibuilder.editor=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.opibuilder.editor
 
-plugin@org.apache.tools.ant=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.apache.tools.ant
+plugin@org.apache.tools.ant=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.apache.tools.ant
 
-plugin@org.csstudio.utility.ldap.nameSpaceBrowser=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.nameSpaceBrowser
+plugin@org.csstudio.utility.ldap.nameSpaceBrowser=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.utility.ldap.nameSpaceBrowser
 
-plugin@org.csstudio.service.channelfinder=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.service.channelfinder
+plugin@org.csstudio.service.channelfinder=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.service.channelfinder
 
-plugin@org.csstudio.logbook.ui=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.logbook.ui
+plugin@org.csstudio.logbook.ui=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.logbook.ui
 
-plugin@org.csstudio.config.savevalue.service=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.config.savevalue.service
+plugin@org.csstudio.config.savevalue.service=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.config.savevalue.service
 
-plugin@org.csstudio.nams.documentation=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.nams.documentation
+plugin@org.csstudio.nams.documentation=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.nams.documentation
 
-plugin@org.csstudio.common.trendplotter=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.common.trendplotter
+plugin@org.csstudio.common.trendplotter=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.common.trendplotter
 
-plugin@org.csstudio.scan.ui.scandata=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.ui.scandata
+plugin@org.csstudio.scan.ui.scandata=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.ui.scandata
 
-plugin@org.csstudio.scan.client=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/plugins/org.csstudio.scan.client
+plugin@org.csstudio.scan.client=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/plugins/org.csstudio.scan.client
 
-feature@org.csstudio.websuite.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.websuite.feature
+feature@org.csstudio.websuite.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.websuite.feature
 
-feature@org.csstudio.diag.controlsystemtools.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.diag.controlsystemtools.feature
+feature@org.csstudio.diag.controlsystemtools.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.diag.controlsystemtools.feature
 
-feature@org.csstudio.configuration.epics.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.configuration.epics.feature
+feature@org.csstudio.configuration.epics.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.configuration.epics.feature
 
-feature@org.csstudio.alarm.beast.ui.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.alarm.beast.ui.feature
+feature@org.csstudio.alarm.beast.ui.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.alarm.beast.ui.feature
 
-feature@org.csstudio.application.weightrequest.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.application.weightrequest.feature
+feature@org.csstudio.application.weightrequest.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.application.weightrequest.feature
 
-feature@org.csstudio.opibuilder.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.opibuilder.feature
+feature@org.csstudio.opibuilder.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.opibuilder.feature
 
-feature@org.csstudio.trends.databrowser2.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.trends.databrowser2.feature
+feature@org.csstudio.trends.databrowser2.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.trends.databrowser2.feature
 
-feature@org.csstudio.sds.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.sds.feature
+feature@org.csstudio.sds.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.sds.feature
 
-feature@org.csstudio.scan.ui.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.scan.ui.feature
+feature@org.csstudio.scan.ui.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.scan.ui.feature
 
-feature@org.csstudio.olog.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.olog.feature
+feature@org.csstudio.olog.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.olog.feature
 
-feature@org.csstudio.channel.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.channel.feature
+feature@org.csstudio.channel.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.channel.feature
 
-feature@org.csstudio.archive.sdds.server.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.archive.sdds.server.feature
+feature@org.csstudio.archive.sdds.server.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.archive.sdds.server.feature
 
-feature@org.csstudio.tine2jms.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.tine2jms.feature
+feature@org.csstudio.tine2jms.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.tine2jms.feature
 
-feature@org.csstudio.alarm.jms2ora.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.alarm.jms2ora.feature
+feature@org.csstudio.alarm.jms2ora.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.alarm.jms2ora.feature
 
-feature@org.csstudio.logbook.viewer.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.logbook.viewer.feature
+feature@org.csstudio.logbook.viewer.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.logbook.viewer.feature
 
-feature@org.csstudio.email.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.csstudio.email.feature
+feature@org.csstudio.email.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.csstudio.email.feature
 
-feature@org.eclipse.nebula.widgets.grid.feature=GIT,tag=CSS-3.2.10,repo=git://github.com/ControlSystemStudio/cs-studio,path=applications/features/org.eclipse.nebula.widgets.grid.feature
+feature@org.eclipse.nebula.widgets.grid.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=applications/features/org.eclipse.nebula.widgets.grid.feature
 
