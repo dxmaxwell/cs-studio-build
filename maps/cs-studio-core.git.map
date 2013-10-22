@@ -1,4 +1,4 @@
-!*** This file was generated on October 22, 2013 10:51:48 AM 
+!*** This file was generated on October 22, 2013 11:35:31 AM 
 
 feature@org.csstudio.eclipse.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.eclipse.feature
 
@@ -135,6 +135,8 @@ plugin@org.csstudio.utility.pvmanager.loc=GIT,tag=origin/dev-3.2.X,repo=git://gi
 plugin@org.csstudio.platform.libs.jdbc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jdbc
 
 plugin@org.csstudio.auth=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.auth
+
+plugin@org.csstudio.utility.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.test
 
 plugin@org.csstudio.java=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.java
 
