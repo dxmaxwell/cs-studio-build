@@ -108,6 +108,13 @@
          unpack="false"/>
 
    <plugin
+         id="org.slf4j-log4j12"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
          id="org.csstudio.utility.pvmanager.exec"
          download-size="0"
          install-size="0"
@@ -287,6 +294,13 @@
          unpack="false"/>
 
    <plugin
+         id="org.python"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
          id="org.csstudio.autocomplete"
          download-size="0"
          install-size="0"
@@ -359,6 +373,34 @@
 
    <plugin
          id="org.epics.pvaccess"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.jackrabbit"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.slf4j"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="org.apache.commons.collections"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="javax.mail"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -466,6 +508,13 @@
          unpack="false"/>
 
    <plugin
+         id="org.apache.log4j"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
          id="org.csstudio.platform.libs.epics.win32"
          download-size="0"
          install-size="0"
@@ -483,6 +532,13 @@
 
    <plugin
          id="org.csstudio.openfile"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.google.common"
          download-size="0"
          install-size="0"
          version="0.0.0"

@@ -1,4 +1,4 @@
-!*** This file was generated on October 22, 2013 10:09:46 AM 
+!*** This file was generated on October 22, 2013 10:51:48 AM 
 
 feature@org.csstudio.eclipse.feature=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/features/org.csstudio.eclipse.feature
 
@@ -29,6 +29,8 @@ plugin@org.csstudio.dal.tine=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dyla
 plugin@org.csstudio.utility.pvmanager.pva=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.pva
 
 plugin@org.csstudio.platform.libs.jersey=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.jersey
+
+plugin@org.slf4j-log4j12=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.slf4j-log4j12
 
 plugin@org.csstudio.utility.pvmanager.exec=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pvmanager.exec
 
@@ -80,6 +82,8 @@ plugin@org.csstudio.platform.libs.jms=GIT,tag=origin/dev-3.2.X,repo=git://github
 
 plugin@org.csstudio.dal.simulator=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.dal.simulator
 
+plugin@org.python=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.python
+
 plugin@org.csstudio.autocomplete=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete
 
 plugin@org.csstudio.autocomplete.pvmanager.loc=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.pvmanager.loc
@@ -101,6 +105,14 @@ plugin@org.epics.util=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs
 plugin@org.csstudio.utility.pv=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pv
 
 plugin@org.epics.pvaccess=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.epics.pvaccess
+
+plugin@org.apache.jackrabbit=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.apache.jackrabbit
+
+plugin@org.slf4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.slf4j
+
+plugin@org.apache.commons.collections=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.apache.commons.collections
+
+plugin@javax.mail=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/javax.mail
 
 plugin@org.csstudio.ui.util=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.ui.util
 
@@ -130,11 +142,15 @@ fragment@org.csstudio.simplepv.pvmanager.test=GIT,tag=origin/dev-3.2.X,repo=git:
 
 fragment@org.csstudio.logging.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.logging.test
 
+plugin@org.apache.log4j=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.apache.log4j
+
 fragment@org.csstudio.platform.libs.epics.win32=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.platform.libs.epics.win32
 
 fragment@org.csstudio.utility.pv.epics.test=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.utility.pv.epics.test
 
 plugin@org.csstudio.openfile=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.openfile
+
+plugin@com.google.common=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/com.google.common
 
 plugin@org.csstudio.autocomplete.ui.rcp=GIT,tag=origin/dev-3.2.X,repo=git://github.com/dylan171/cs-studio,path=core/plugins/org.csstudio.autocomplete.ui.rcp
 
