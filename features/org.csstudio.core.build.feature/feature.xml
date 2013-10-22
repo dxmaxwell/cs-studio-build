@@ -108,21 +108,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.slf4j-log4j12"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.csstudio.domain.common.test"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
          id="org.csstudio.utility.pvmanager.exec"
          download-size="0"
          install-size="0"
@@ -203,13 +188,6 @@
 
    <plugin
          id="org.csstudio.simplepv"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.csstudio.remote"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -323,13 +301,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.csstudio.platform.simpledal"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="org.csstudio.utility.pv.simu"
          download-size="0"
          install-size="0"
@@ -388,13 +359,6 @@
 
    <plugin
          id="org.epics.pvaccess"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.slf4j"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -472,13 +436,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.csstudio.dal.ui"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="org.csstudio.auth"
          download-size="0"
          install-size="0"
@@ -501,29 +458,7 @@
          unpack="false"/>
 
    <plugin
-         id="org.mockito"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="org.csstudio.logging.test"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.apache.log4j"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.csstudio.servicelocator.test"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -548,13 +483,6 @@
 
    <plugin
          id="org.csstudio.openfile"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="com.google.common"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -597,21 +525,6 @@
 
    <plugin
          id="org.csstudio.platform.utility.jms.ui"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.csstudio.remote.test"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         fragment="true"
-         unpack="false"/>
-
-   <plugin
-         id="org.csstudio.domain.common"
          download-size="0"
          install-size="0"
          version="0.0.0"
@@ -667,21 +580,7 @@
          unpack="false"/>
 
    <plugin
-         id="org.csstudio.servicelocator"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
          id="org.csstudio.utility.pvmanager.jdbc"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="javax.annotation"
          download-size="0"
          install-size="0"
          version="0.0.0"
